@@ -419,10 +419,14 @@ option{
     .info-para{
         font-size:12px;
     }
+    .menu{
+        display:none;
     
 }
 @media screen and (max-width:768px){
     .hr-line2{
         display:none;
     }
+    .logo-title{
+        font-size:12px;
 }

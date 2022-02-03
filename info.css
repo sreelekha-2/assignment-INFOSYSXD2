@@ -10,15 +10,7 @@
 .body{
     background-color: #14202E;
 }
-/*#link1,#link2,#link3{
-    color:#C7CBD6;
-    font-size:18px; 
-    font-family: "Poppins";
-    font-weight:400;
-}*/
-/* #link1,#link2,#link3:hover{
-    color:#F1AC4D;
-} */
+
 .navbar-light .navbar-nav .header-link1{
     color:#C7CBD6;
     font-size:18px; 
@@ -421,12 +413,19 @@ option{
     }
     .menu{
         display:none;
-    
+    }
 }
 @media screen and (max-width:768px){
     .hr-line2{
         display:none;
     }
     .logo-title{
-        font-size:12px;
+      font-size:12px;
+    }
+    .first-head{
+        font-size:18px;
+    }
+    .first-para{
+        font-size:16px;
+    }
 }
